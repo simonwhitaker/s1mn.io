@@ -1,0 +1,21 @@
+baseURL: "http://s1mn.io/"
+languageCode: "en-us"
+title: "s1mn"
+theme: "charlolamode"
+
+menu:
+  main: []
+
+params:
+  profileMode:
+    title: Simon Whitaker
+    description: |
+
+      Hello, I'm Simon. I'm a software engineer.
+  socialIcons:
+    - name: mastodon
+      url: "https://toot.io/@s1mn"
+    - name: github
+      url: "https://github.com/simonwhitaker"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/simonwhitakeruk/"
