@@ -1,5 +1,5 @@
-baseURL: "http://s1mn.io/"
-languageCode: "en-us"
+baseURL: "https://s1mn.io/"
+languageCode: "en-gb"
 title: "s1mn"
 theme: "charlolamode"
 
