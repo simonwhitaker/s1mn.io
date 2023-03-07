@@ -1,0 +1,10 @@
+---
+Title: Meet Me
+type: list
+---
+
+Book a meeting with me (Simon Whitaker) at a time that suits you!
+
+- [30 minutes](https://fantastical.app/simonwhitaker/30-mins)
+- [45 minutes](https://fantastical.app/simonwhitaker/45-mins)
+- [30 minutes (US-friendly hours)](https://fantastical.app/simonwhitaker/30-mins-us-friendly)
