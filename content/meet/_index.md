@@ -1,6 +1,5 @@
 ---
 Title: Meet Me
-type: list
 ---
 
 Book a meeting with me (Simon Whitaker) at a time that suits you!

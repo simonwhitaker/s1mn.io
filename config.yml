@@ -1,12 +1,13 @@
 baseURL: "https://s1mn.io/"
 languageCode: "en-gb"
-title: "s1mn"
+title: "Simon Whitaker"
 theme: "charlolamode"
 
 menu:
   main: []
 
 params:
+  ShowBreadCrumbs: false
   profileMode:
     title: Simon Whitaker
     description: |
