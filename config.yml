@@ -15,6 +15,7 @@ params:
       Hello, I'm Simon. I build software, and teams that build software.
     imageUrl: "/images/simon.jpg"
     imageTitle: Simon Whitaker
+    buttons: []
   socialIcons:
     - name: mastodon
       url: "https://toot.io/@s1mn"
